@@ -1,0 +1,23 @@
+{
+  "name": "card-ui-1",
+  "version": "1.0.0",
+  "description": "flex card ui test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cssnano": "^5.0.6",
+    "dart-sass": "^1.25.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "gulp-scss": "^1.4.0",
+    "gulp-terser": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp-postcss": "^9.0.0",
+    "postcss": "^8.3.5"
+  }
+}
